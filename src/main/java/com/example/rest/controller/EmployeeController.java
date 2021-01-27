@@ -14,6 +14,10 @@ import com.example.rest.exception.EmployeeNotFoundException;
 import com.example.rest.model.Employee;
 import com.example.rest.repository.EmployeeRepository;
 
+/**
+ * Class for handle controller operations.
+ *
+ */
 @RestController
 class EmployeeController {
 
