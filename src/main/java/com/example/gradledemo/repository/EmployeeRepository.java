@@ -1,8 +1,8 @@
-package com.example.rest.repository;
+package com.example.gradledemo.repository;
 
 import org.springframework.data.jpa.repository.JpaRepository;
 
-import com.example.rest.model.Employee;
+import com.example.gradledemo.model.Employee;
 
 public interface EmployeeRepository extends JpaRepository<Employee, Long> {
 

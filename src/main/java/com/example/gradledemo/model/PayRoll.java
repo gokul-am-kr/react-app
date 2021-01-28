@@ -1,4 +1,4 @@
-package com.example.rest.model;
+package com.example.gradledemo.model;
 
 import javax.persistence.Entity;
 import javax.persistence.Id;

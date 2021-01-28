@@ -1,4 +1,4 @@
-package com.example.rest.model;
+package com.example.gradledemo.model;
 
 import java.util.Objects;
 

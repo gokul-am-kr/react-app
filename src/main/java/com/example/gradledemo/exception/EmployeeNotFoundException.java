@@ -1,4 +1,4 @@
-package com.example.rest.exception;
+package com.example.gradledemo.exception;
 
 public class EmployeeNotFoundException extends RuntimeException {
 

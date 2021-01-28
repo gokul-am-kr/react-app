@@ -1,4 +1,4 @@
-package com.example.rest.controller;
+package com.example.gradledemo.controller;
 
 import java.util.List;
 
@@ -10,9 +10,9 @@ import org.springframework.web.bind.annotation.PutMapping;
 import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RestController;
 
-import com.example.rest.exception.EmployeeNotFoundException;
-import com.example.rest.model.Employee;
-import com.example.rest.repository.EmployeeRepository;
+import com.example.gradledemo.exception.EmployeeNotFoundException;
+import com.example.gradledemo.model.Employee;
+import com.example.gradledemo.repository.EmployeeRepository;
 
 @RestController
 class EmployeeController {
